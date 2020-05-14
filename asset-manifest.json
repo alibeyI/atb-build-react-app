@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/atb-build-react-app/static/css/main.29cfee7e.chunk.css",
+    "main.js": "/atb-build-react-app/static/js/main.32eb8cc4.chunk.js",
+    "main.js.map": "/atb-build-react-app/static/js/main.32eb8cc4.chunk.js.map",
+    "runtime-main.js": "/atb-build-react-app/static/js/runtime-main.bf64dba4.js",
+    "runtime-main.js.map": "/atb-build-react-app/static/js/runtime-main.bf64dba4.js.map",
+    "static/js/2.09c24cc5.chunk.js": "/atb-build-react-app/static/js/2.09c24cc5.chunk.js",
+    "static/js/2.09c24cc5.chunk.js.map": "/atb-build-react-app/static/js/2.09c24cc5.chunk.js.map",
+    "index.html": "/atb-build-react-app/index.html",
+    "precache-manifest.bf792bcd21d5ac2c613ea3802220c913.js": "/atb-build-react-app/precache-manifest.bf792bcd21d5ac2c613ea3802220c913.js",
+    "service-worker.js": "/atb-build-react-app/service-worker.js",
+    "static/css/main.29cfee7e.chunk.css.map": "/atb-build-react-app/static/css/main.29cfee7e.chunk.css.map",
+    "static/js/2.09c24cc5.chunk.js.LICENSE.txt": "/atb-build-react-app/static/js/2.09c24cc5.chunk.js.LICENSE.txt",
+    "static/media/logoAtb.svg": "/atb-build-react-app/static/media/logoAtb.b1bfca5e.svg",
+    "static/media/maestro.svg": "/atb-build-react-app/static/media/maestro.99dc552e.svg",
+    "static/media/master.svg": "/atb-build-react-app/static/media/master.cd93a85a.svg",
+    "static/media/num.svg": "/atb-build-react-app/static/media/num.f6931727.svg",
+    "static/media/recipeIcon.svg": "/atb-build-react-app/static/media/recipeIcon.4dabd9f4.svg",
+    "static/media/visa.svg": "/atb-build-react-app/static/media/visa.16ed809c.svg",
+    "static/media/visa2.svg": "/atb-build-react-app/static/media/visa2.d3ef3dc5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf64dba4.js",
+    "static/js/2.09c24cc5.chunk.js",
+    "static/css/main.29cfee7e.chunk.css",
+    "static/js/main.32eb8cc4.chunk.js"
+  ]
+}
